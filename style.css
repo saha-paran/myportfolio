@@ -82,7 +82,7 @@ header label{
 
 }
 .flex-1st{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.503), rgba(0, 0, 0, 0.195)), url(/img/first-bg.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.503), rgba(0, 0, 0, 0.195)), url(img/first-bg.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
